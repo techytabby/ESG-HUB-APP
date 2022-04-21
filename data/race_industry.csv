@@ -1,0 +1,20 @@
+﻿Industry,Caucasian_Total,Caucasian_Management,Caucasian_Other,Asian_Total,Asian_Management,Asian_Other,AfricanAmerican_Total,AfricanAmerican_Management,AfricanAmerican_Other
+Agriculture and related,2170,926,"1,244",28,7,21,66,6,60
+"Mining, quarrying, and oil and gas extraction",596,129,467,29,10,19,31,4,27
+Construction,9552,"2,018","7,534",216,50,166,647,80,567
+Manufacturing,11600,"2,414","9,186","1,024",209,815,"1,492",148,"1,344"
+Durable goods,7332,"1,491","5,841",674,132,542,868,96,772
+Nondurable goods,4268,923,"3,345",350,77,273,624,53,571
+Wholesale and retail trade,14911,"1,341","13,570","1,080",105,975,"2,232",117,"2,115"
+Wholesale trade,2805,448,"2,357",182,33,149,298,28,270
+Retail trade,12106,893,"11,213",898,72,826,"1,934",89,"1,845"
+Transportation and utilities,6196,816,"5,380",464,53,411,"1,599",117,"1,482"
+Information,1974,514,"1,460",252,64,188,298,59,239
+Financial activities,8431,"3,756","4,675",837,392,445,"1,115",461,654
+Professional and business services,14605,"4,090","10,515","1,790",493,"1,297","1,868",366,"1,502"
+Education and health services,25818,"2,883","22,935","2,132",181,"1,951","5,055",517,"4,538"
+Leisure and hospitality,8690,"1,595","7,095",726,151,575,"1,463",190,"1,273"
+Other services,5296,635,"4,661",516,27,489,693,77,616
+"Other services, except private households",4772,630,"4,142",478,24,454,630,77,553
+Private households,523,5,518,38,3,35,62,0,62
+Public administration,5502,"1,060","4,442",344,76,268,"1,314",243,"1,071"

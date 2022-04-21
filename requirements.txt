@@ -1,0 +1,8 @@
+streamlit==1.8.1
+pandas==1.4.2
+numpy==1.22.3
+plotly.express==0.4.1
+streamlit-aggrid==0.2.3.post2
+feedparser==6.0.8
+altair==4.2.0
+datatime==4.4
