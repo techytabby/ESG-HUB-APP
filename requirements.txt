@@ -3,3 +3,4 @@ plotly.express==0.4.1
 streamlit-aggrid
 feedparser==6.0.8
 altair==4.2.0
+plotly
