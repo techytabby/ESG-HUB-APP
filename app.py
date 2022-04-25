@@ -3,8 +3,7 @@ Group: Tabetha Pombo, Arushi Nigam, and Erika Gaebel
 Date: April 25, 2022
 Project: DSCI 551
 File: app.py
-This contains the home page of the project that displays the definitions of ESG. Utilizes streamlit columns to structure out invidiual image files for header and footer.
-Logos are stored in the images/ folder of the project
+Description: Contains for the entire app with the navigation drop down menu
 '''
 #Libraries required to run app.py script
 import streamlit as st

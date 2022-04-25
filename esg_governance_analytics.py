@@ -1,4 +1,14 @@
+'''
+Group: Tabetha Pombo, Arushi Nigam, and Erika Gaebel
+Date: April 25, 2022
+Project: DSCI 551
+File: esg_governance_analytics.py
 
+Description: Contains tabular and analytical charts of Los Angeles median household income per race, median homesales, and homeless count. 
+Data  is gathered from a No-sql firebase cloud server to generated the below charts.
+'''
+
+# Required Libraries to support the application
 import altair as alt #barcharts library
 import streamlit as st
 import pandas as pd
@@ -7,10 +17,8 @@ import requests
 from st_aggrid import AgGrid
 import plotly.graph_objects as go
 
-
+#initaion function executed 
 def activfunc():
-
-
 #Firebase cloud database that contains LA county income level changes within a 15 year period
     df =pd.read_json('https://esg-social-default-rtdb.firebaseio.com/.json', orient = 'records')
     
@@ -23,9 +31,8 @@ def activfunc():
     
     #Uses streamlit-agrid to display .json dataframe chart
     AgGrid(data, height=260, ft_columns_on_grid_load=True)
-    
+    #Displays plain text
     st.text('% percentage Diff 2010 --> 2020')
-    
     st.text('White: +27.7')
     st.text('Black or African American: +21.8')
     st.text('American Indian and Alaska Native: +31.7')
